@@ -18,7 +18,7 @@ Ejecutar los siguientes comandos en orden
 git clone https://github.com/osoda/contactbook
 ```
 ```cmd
-cd sistema-prestamos
+cd contactbook
 ```
 ```cmd
 composer install
